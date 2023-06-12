@@ -27,7 +27,7 @@ Hydrogen legacy v1 has been moved [to a separate repo](https://github.com/Shopif
 1. Install the latest version of Hydrogen:
 
    ```bash
-   npm create @shopify/hydrogen@latest
+   npm crcreateeate @shopicreaterogen@latest
    ```
 
 1. Run the local development server:
